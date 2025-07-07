@@ -1,11 +1,9 @@
-# 🌸 跨越千年，赋诗成文：用 LSTM 重现古诗的韵律与情感
 # 🌸 跨越千年，赋诗成文：用 LSTM 和 Transformer 重现古诗的韵律与情感
 
 ### ✨ 前言
 
 在深度学习大量古诗词之后，AI 赋诗如下：  
 
-> <img title="" src="file:///F:/前端基础学习/Ancient-poetry-generator-based-on-RNN-and-Transformer/img/example.png" alt="" width="493">
 > <img width="600" height="600" alt="Image" src="https://github.com/user-attachments/assets/03e81a45-df21-4b88-97f5-0de04b2757f6" />
 
 > 参考数据集来源：  
@@ -59,12 +57,10 @@ python test.py
 
 RNN架构:
 
-<img title="" src="file:///F:/前端基础学习/Ancient-poetry-generator-based-on-RNN-and-Transformer/img/RNN.png" alt="">
 <img width="500" height="200" alt="Image" src="https://github.com/user-attachments/assets/03d9e6c8-17c3-430c-821f-57f732b9aa35" />
 
 Transformer架构:
 
-<img title="" src="file:///F:/前端基础学习/Ancient-poetry-generator-based-on-RNN-and-Transformer/img/Transformer.png" alt="">
 <img width="500" height="200" alt="Image" src="https://github.com/user-attachments/assets/c0de3e09-d357-4848-8546-28450bb74ee3" />
 
 ---
