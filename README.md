@@ -57,11 +57,11 @@ python test.py
 
 RNN架构:
 
-<img title="" src="file:///F:/前端基础学习/Ancient-poetry-generator-based-on-RNN-and-Transformer/img/RNN.png" alt="">
+<img width="500" height="200" alt="Image" src="https://github.com/user-attachments/assets/03d9e6c8-17c3-430c-821f-57f732b9aa35" />
 
 Transformer架构:
 
-<img title="" src="file:///F:/前端基础学习/Ancient-poetry-generator-based-on-RNN-and-Transformer/img/Transformer.png" alt="">
+<img width="500" height="200" alt="Image" src="https://github.com/user-attachments/assets/c0de3e09-d357-4848-8546-28450bb74ee3" />
 
 ---
 
