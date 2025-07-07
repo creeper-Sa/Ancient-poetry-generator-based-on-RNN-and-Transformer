@@ -4,7 +4,7 @@
 
 在深度学习大量古诗词之后，AI 赋诗如下：  
 
-> <img title="" src="file:///F:/前端基础学习/Ancient-poetry-generator-based-on-RNN-and-Transformer/img/example.png" alt="" width="493">
+> <img width="917" height="657" alt="Image" src="https://github.com/user-attachments/assets/03e81a45-df21-4b88-97f5-0de04b2757f6" />
 
 > 参考数据集来源：  
 > 🔗 [Chinese-Poetry 数据集](https://github.com/chinese-poetry/chinese-poetry)
