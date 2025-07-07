@@ -67,11 +67,13 @@
     loading.value = true
     output.value = ''
     try {
-      const res = await axios.post('/predict', {
-        input_char: inputChar.value.trim(),
-        input_style: inputStyle.value,
-        // model_type: modelType.value,
-      })
+      const res = await axios.post(
+        modelType.value === 'rnn' ? '/lstm_predict' : '/transformer_predict',
+        {
+          input_char: inputChar.value.trim(),
+          input_style: inputStyle.value
+        }
+      )
       output.value = res.data.output || '未生成内容，请重试'
     } catch (error) {
       output.value = '❌ 请求失败，请检查后端服务'
